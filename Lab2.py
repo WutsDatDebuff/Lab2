@@ -5,3 +5,7 @@
 
 
 print("ET0735 (DevOps for AIoT) - Lab 2 - Introduction to Python")
+
+def funcName (n1,n2):
+    print("this is a dumm what's this?")
+    return 10
